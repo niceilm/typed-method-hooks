@@ -1,0 +1,10 @@
+{
+  "name": "method-hooks",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/leonidez/method-hooks",
+  "version": "1.5.4",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+  }
+}
