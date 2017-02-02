@@ -10,7 +10,7 @@ interface AfterHook {
   (methodArgs: any, returnValue: any, methodOptions: ValidatedMethodOption): any;
 }
 
-export interface ValidatedMethodOption {
+interface ValidatedMethodOption {
   beforeHooks?: BeforeHook[];
   afterHooks?: AfterHook[];
 }
